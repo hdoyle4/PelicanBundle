@@ -7,5 +7,6 @@ namespace PelicanBundle.Models
 {
     public class TestModel
     {
+        //this is just a test
     }
 }
